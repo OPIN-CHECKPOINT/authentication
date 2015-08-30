@@ -1,1 +1,6 @@
-# authentication
+# Authentication
+
+## Requirements
+
+* php-ldap
+
